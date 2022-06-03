@@ -2,11 +2,15 @@
 
 /**
  *
- *  * Description: main - Prints out a string to stdout.
+ *  * main - Prints "Programming is like building a
  *
- *   * Return: 0 if success.
+ *   *   multilingual puzzle"
  *
- *    */
+ *    *
+ *
+ *     * Return: Always 0 (Success)
+ *
+ *      */
 
 int main(void)
 
